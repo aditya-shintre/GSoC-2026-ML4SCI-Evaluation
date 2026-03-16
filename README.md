@@ -12,7 +12,7 @@
 
 ### Evaluation Tasks Completed:
 
-This repository contains the Jupyter Notebooks (`.ipynb`) and exported `.pdf` reports for the required ML4SCI evaluation tasks, demonstrating proficiency in classical deep learning, parameterized quantum circuits (PQCs), and reinforcement learning.
+This repository contains the Jupyter Notebooks (`.ipynb`) and exported `.pdf` reports for the required ML4SCI evaluation tasks, demonstrating proficiency in classical deep learning, parameterized quantum circuits (PQCs), astrophysics time-series modeling, and reinforcement learning.
 
 * **Task I:** Quantum Computing Part (Basic Gates & SWAP Test via PennyLane)
 * **Task II:** Classical Graph Neural Network (ParticleNet EdgeConv & GCN)
@@ -22,5 +22,8 @@ This repository contains the Jupyter Notebooks (`.ipynb`) and exported `.pdf` re
 * **Task VI:** Quantum Representation Learning (PCA & Contrastive Loss SWAP Test)
 * **Task XI:** PQC Parameter Estimation via Classical MLP (Hybrid Autoencoder)
 * **Task XII:** PQC Parameter Estimation via Reinforcement Learning (Proximal Policy Optimization)
+* **EXXA Sequential Task (3, 4, 5):** Exoplanet Transit Detection via Adversarial Time-Series Modeling (Classical 1D-CNN vs. Hybrid QCNN with Amplitude Encoding)
 
-*Note: All quantum simulations were executed utilizing PennyLane, TensorFlow Quantum, and PyTorch backends. The Task III commentary is provided as a standalone PDF.*
+---
+
+*Note: All quantum simulations were executed utilizing PennyLane, TensorFlow Quantum, and PyTorch backends. Astrophysical transit modeling and noise curation were powered by `pytransit` and raw Kepler MAST Archive telemetry. The Task III commentary is provided as a standalone PDF.*
